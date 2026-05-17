@@ -2,7 +2,7 @@
 
 > A curated list of KOLs' content on harness engineering: the practice of shaping the environment around AI agents so they can work reliably.
 
-Harness engineering sits at the intersection of context engineering, evaluation, observability, orchestration, safe autonomy, and software architecture. This list focuses on articles by key opinion leaders that make agents more dependable in real workflows, especially long-running coding and research tasks.
+Harness engineering sits at the intersection of context engineering, evaluation, observability, orchestration, safe autonomy, and software architecture. This list focuses on content by key opinion leaders — articles, podcasts, videos, and other formats — that make agents more dependable in real workflows, especially long-running coding and research tasks.
 
 ## Contents
 
