@@ -49,4 +49,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for contribution guidelines and the pre
 
 ## License
 
-[CC0 1.0](./LICENSE)
+[MIT](./LICENSE)
